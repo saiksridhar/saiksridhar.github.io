@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About
 ____________________________
 I am a highly curious and driven Data Science professional with over 12 years industry experience. 
 
