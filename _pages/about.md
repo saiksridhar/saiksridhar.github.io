@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 # About
+____________________________
 I am a highly curious and driven Data Science professional with over 12 years industry experience. 
 
 I have a passion for all things numbers and enjoy building personal data projects outside of the office. The My private projects include those within this site as well as bot traders I use for crypto trading. In my spare time I love to read self improvement books, exploring nature, watching Test Cricket and also the NBA (two very contrasting sports)!
