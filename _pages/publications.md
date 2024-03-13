@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 _________________________________
-The following projects are examples of the approach I use for data exploration, pre-processing and model development for the professional personal ML/AI based bot traders I used for crypto trading.
+The following projects are examples of the approach I use for data exploration, pre-processing and model development for professional projects and personal ML/AI bot traders I develop for crypto trading.
 
 _________________________________
 
