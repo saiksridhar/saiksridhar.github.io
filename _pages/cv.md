@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sai Sridhar - Resume"
+title: "Sai Sridhar | Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
