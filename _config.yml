@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sai Sridhar / Data Science Portfolio"
+title                    : "Data Science Portfolio"
 title_separator          : "-"
 name                     : &name "Sai Sridhar"
 description              : &description "personal description"
@@ -24,10 +24,10 @@ author:
   avatar           : "S Sridhar circle crop final.jpeg"
   name             : "Sai Sridhar"
   pronouns         : # example: "she/her"  
-  bio              : 
-  "Data Science Professional with" 
-  "12 years experience specialising" 
-  "in customer and risk analytics."
+  bio              : > 
+    Data Science Professional with 
+    12 years experience specialising 
+    in customer and risk analytics.
   # location         : "Earth"
   # employer         : "Commonwealth Bank"
   uri              : # URL
