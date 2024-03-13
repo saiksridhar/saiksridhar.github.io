@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# About
+I am a highly curious and driven Data Science professional with over 12 years industry experience. 
+
+I have a passion for all things numbers and enjoy building personal data projects outside of the office. The My private projects include those within this site as well as bot traders I use for crypto trading. In my spare time I love to read self improvement books, exploring nature, watching Test Cricket and also the NBA (two very contrasting sports)!
+
+My journey has seen me work across multiple business areas within financial services in various capacities from Data engineering, leading visual analytics solutions through to developing ML models and leading high performance teams. Each phase has lead to a lot of learning and growth and culminated to a journey I have thoroughly enjoyed!
+
+I am currently working on customer analysis within the business banking world in a large retail bank. I am always interested in discussing new opportunities so please feel free to reach out to me on [LinkedIn](www.linkedin.com/in/saiksridhar)
+
+{::comment}
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +57,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+{:/comment}
