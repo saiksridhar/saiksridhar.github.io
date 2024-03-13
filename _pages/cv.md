@@ -18,11 +18,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* Manager – Customer and Risk Analytics | Sep 2020 – Current
+  Specialize in identifying digital product opportunities and actionable customer insights through advanced analytics and automation.
+  * Analytics Strategy and Project Management: Designed and implemented data processes, resulting in the remediation of over 100,000 banking customers across multiple projects.
+  * Exploratory Analysis for Opportunity Identification: Engaged with business stakeholders to proactively identify opportunities for the adoption of specific digital capabilities among a customer base of 1.2 million.
+    
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
