@@ -15,7 +15,7 @@ This is a simple drug classification problem using patient health data to then c
 - Exploratory Data Analysis
 - Feature engineering using transformers
 - Building pipelines of column transformers and classifiers
-- Testing multiple ML models (including XGBoost, SVM and Neural Networks
+- Testing multiple ML models (including XGBoost, SVM and Neural Networks)
 - Using GridSearchCV to tune Neural Network hyperparameters
 - Analysing classification output using Confusion Matricies
 
@@ -27,7 +27,7 @@ The primary challenges dealt with in this classification process are data cleans
 - Exploratory Data Analysis
 - Feature engineering using multiple custom transformers
 - Building pipelines of column transformers and classifiers
-- Testing multiple ML models (including XGBoost, SVM and Neural Networks
+- Testing multiple ML models (including XGBoost, SVM and Neural Networks)
 - Using GridSearchCV to tune Neural Network hyperparameters
 - Analysing classification output using Confusion Matricies
 
