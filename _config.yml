@@ -12,7 +12,7 @@ title                    : "Sai Sridhar / Data Science Portfolio"
 title_separator          : "-"
 name                     : &name "Sai Sridhar"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://saiksridhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,9 +24,12 @@ author:
   avatar           : "S Sridhar circle crop final.jpeg"
   name             : "Sai Sridhar"
   pronouns         : # example: "she/her"  
-  bio              : "Data Science Professional with 12 years experience specialising in customer and risk analytics."
+  bio              : 
+  "Data Science Professional with" 
+  "12 years experience specialising" 
+  "in customer and risk analytics."
   # location         : "Earth"
-  employer         : "Commonwealth Bank"
+  # employer         : "Commonwealth Bank"
   uri              : # URL
   email            : "saiksridhar@gmail.com" 
 
