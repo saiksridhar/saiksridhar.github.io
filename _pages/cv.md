@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
+_________________________
 ## Education
 _________________________
 * Master of Data Science
