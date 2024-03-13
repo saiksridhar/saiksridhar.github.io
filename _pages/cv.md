@@ -14,7 +14,7 @@ _________________________
 * B. Applied Finance
 * B. Commerce (Marketing)
 
-## Work experience
+## Experience
 _________________________
 ### Commonwealth Bank
 **Manager – Customer and Risk Analytics &#124; Sep 2020 – Current**
