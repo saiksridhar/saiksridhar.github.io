@@ -6,6 +6,7 @@ author_profile: true
 ---
 _________________________________
 The following projects are examples of the approach I use for data exploration, pre-processing and model development for the professional personal ML/AI based bot traders I used for crypto trading.
+
 _________________________________
 
 ## [Drug Classification](https://github.com/saiksridhar/saiksridhar.github.io/blob/master/Drug_Classifiation/MLP%20with%20Keras%20Practice%202.ipynb)
