@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Data Science Portfolio"
+title                    : "Data Science Portfolio test"
 title_separator          : "-"
 name                     : &name "Sai Sridhar"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "S Sridhar circle crop final.jpeg"
   name             : "Sai Sridhar"
   pronouns         : # example: "she/her"  
-  bio              : > 
+  bio              : |
     Data Science Professional with 
     12 years experience specialising 
     in customer and risk analytics.
