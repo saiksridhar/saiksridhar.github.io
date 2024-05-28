@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 _________________________________
-The following projects are examples of the approach I use for data exploration, pre-processing and model development for the professional personal ML/AI based bot traders I used for crypto trading.
+The following projects are examples of the approach I use for data exploration, pre-processing and model development for professional projects and personal ML/AI bot traders I develop for crypto trading.
+
 _________________________________
 
 ## [Drug Classification](https://github.com/saiksridhar/saiksridhar.github.io/blob/master/Drug_Classifiation/MLP%20with%20Keras%20Practice%202.ipynb)
@@ -14,9 +15,22 @@ This is a simple drug classification problem using patient health data to then c
 - Exploratory Data Analysis
 - Feature engineering using transformers
 - Building pipelines of column transformers and classifiers
-- Testing multiple ML models (including XGBoost, SVM and Neural Networks
+- Testing multiple ML models (including XGBoost, SVM and Neural Networks)
 - Using GridSearchCV to tune Neural Network hyperparameters
 - Analysing classification output using Confusion Matricies
+
+## [Credit Score Classification](https://github.com/saiksridhar/saiksridhar.github.io/blob/master/Credit_Classification/Credit_Score_Prediction.ipynb)
+Credit Scoring enables credit decisioning and pricing (such as interest rates) to support an optimised portfolio for the institution in line with profitablility targets and risk apetite. This is vital to the survival and success of any financial institution which issues lending products.
+
+The primary challenges dealt with in this classification process are data cleansing, imputation and model development. Custom imputers have been developed in this Notebook along with testing of the imputed features during the model training phase. Additionally, various configurations and approaches are taken to develop a predictive neural network model. This project explores:
+
+- Exploratory Data Analysis
+- Feature engineering using multiple custom transformers
+- Building pipelines of column transformers and classifiers
+- Testing multiple ML models (including XGBoost, SVM and Neural Networks)
+- Using GridSearchCV to tune Neural Network hyperparameters
+- Analysing classification output using Confusion Matricies
+
 
 {::comment}
 {% if site.author.googlescholar %}

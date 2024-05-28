@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sai Sridhar - Resume"
+title: "Sai Sridhar | Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ _________________________
 * B. Applied Finance
 * B. Commerce (Marketing)
 
-## Work experience
+## Experience
 _________________________
 ### Commonwealth Bank
 **Manager – Customer and Risk Analytics &#124; Sep 2020 – Current**
